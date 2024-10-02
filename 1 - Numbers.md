@@ -80,3 +80,5 @@ $\sqrt{25b} - \sqrt{b^3}$ = $\sqrt25\sqrt{b}$ - $\sqrt{b^2}\sqrt{b}$ = $5\sqrt{b
 
 ## Rational Exponents
 $a^{1/n}$ = $\sqrt[n]{a}$ or more generally $a^{m/n}$ = $(\sqrt[n]{a})^m$ = $\sqrt[n]{a^m}$
+
+$\frac{1}{2}$
